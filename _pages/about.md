@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -29,8 +28,6 @@ A technology leader with a strong background in software development, digital tr
 
 Kent combines technical expertise with strategic oversight, guiding teams through complex projects from concept to deployment while ensuring alignment with organizational goals. His leadership style emphasizes collaboration, innovation, and disciplined execution.
 
-Outside of his professional work, Kent is committed to community service and leadership initiatives, and he values investing in the growth and development of the next generation. 
+Outside of his professional work, Kent is committed to community service and leadership initiatives, and he values investing in the growth and development of the next generation.
 
 <br/>
-
-

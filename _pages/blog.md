@@ -18,8 +18,6 @@ pagination:
 
 <div class="post">
 
-
-
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
