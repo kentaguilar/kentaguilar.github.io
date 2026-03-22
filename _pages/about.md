@@ -1,8 +1,10 @@
 ---
 layout: about
 title: About
-permalink: /
-subtitle: Carpe Diem
+permalink: /about/
+# subtitle: Carpe Diem
+nav: true
+nav_order: 4
 
 profile:
   align: right
@@ -24,10 +26,11 @@ latest_posts:
   limit: 8 # leave blank to include all the blog posts
 ---
 
-A technology leader with a strong background in software development, digital transformation, and cross-functional team leadership. With extensive experience in building and delivering scalable solutions using modern technologies such as ASP.NET Core and React.js, he has led initiatives that improve operational efficiency and drive business value.
+A results-driven technology executive with deep expertise in software engineering, digital transformation, and enterprise platform delivery, experienced in leading cross-functional teams and aligning technology initiatives with strategic business outcomes. Proficient in modern full-stack development (ASP.NET Core, PHP, Ruby, Go, React), cloud platforms (Azure, AWS), and DevOps practices, he delivers scalable, high-impact solutions that enhance efficiency, resilience, and innovation across the organization.
 
-Kent combines technical expertise with strategic oversight, guiding teams through complex projects from concept to deployment while ensuring alignment with organizational goals. His leadership style emphasizes collaboration, innovation, and disciplined execution.
+Kent brings a strong focus on strategic management, guiding complex programs from concept to execution while ensuring alignment with organizational priorities and long-term business value. He fosters a culture of collaboration, accountability, and continuous improvement, enabling teams to operate with clarity, discipline, and purpose in a rapidly evolving technological landscape.
 
-Outside of his professional work, Kent is committed to community service and leadership initiatives, and he values investing in the growth and development of the next generation.
+Beyond his professional work, he is a linguist, writer, educator, and entrepreneur, as well as an active NGO leader in Rotary, advocating for education, digital transformation, mental health, and STEM research, with a strong commitment to developing future leaders and driving meaningful community impact.
+
 
 <br/>
