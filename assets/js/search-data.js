@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/index.html";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -30,11 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-about",
+          title: "About",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/about/";
+          },
+        },{id: "post-leading-with-purpose-creating-hope-through-service-and-leadership",
         
-          title: "a post with plotly.js",
+          title: "Leading with Purpose - Creating Hope Through Service and Leadership",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Empowering communities through compassion, action, and meaningful change.",
         section: "Posts",
         handler: () => {
           
